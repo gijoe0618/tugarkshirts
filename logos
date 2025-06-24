@@ -1,0 +1,43 @@
+{
+	"Shirt Data":
+	{
+		"shirts": [
+			{
+				"eos": [
+					"123456789",
+					"987654321"
+				],
+				"tribename": [
+					"Bobs",
+					"Alpha"
+				],
+				"color":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"urlimage": "https://i.imgur.com/RZm24jC.png"
+			},
+			{
+				"eos": [
+					"123456789",
+					"987654321"
+				],
+				"tribename": [
+					"Bobbett",
+					"Beta"
+				],
+				"color":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 0,
+					"a": 1
+				},
+				"urlimage": "https://i.imgur.com/GKXnhot.jpg"
+			}
+		]
+	}
+}
