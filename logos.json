@@ -1,43 +1,57 @@
 {
-	"Shirt Data":
-	{
-		"shirts": [
-			{
-				"eos": [
-					"123456789",
-					"987654321"
-				],
-				"tribename": [
-					"FWG",
-					"FWG1"
-				],
-				"color":
-				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"urlimage": "https://i.imgur.com/cZQLQmS.png"
-			},
-			{
-				"eos": [
-					"123456789",
-					"33239126"
-				],
-				"tribename": [
-					"Grthy",
-					"Grthy1"
-				],
-				"color":
-				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"urlimage": "https://i.imgur.com/e80Mm40.png"
-			}
-		]
-	}
+    "Shirt Data": {
+        "shirts": [
+            {
+                "eos": [
+                    "123456789",
+                    "987654321"
+                ],
+                "tribename": [
+                    "FWG",
+                    "FWG1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/cZQLQmS.png"
+            },
+            {
+                "eos": [
+                    "123456789",
+                    "33239126"
+                ],
+                "tribename": [
+                    "Grthy",
+                    "Grthy1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/e80Mm40.png"
+            },
+            {
+                "eos": [
+                    "123456789",
+                    "402436918"
+                ],
+                "tribename": [
+                    "Viva Mexico",
+                    "Viva Mexico1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/5HP9tyX.png"
+            }
+        ]
+    }
 }
