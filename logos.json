@@ -51,6 +51,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/5HP9tyX.png"
+            },
+      {
+                "eos": [
+                    "569800078",
+                    "273629683"
+                ],
+                "tribename": [
+                    "Blazing Judgement",
+                    "Blazing Judgement1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/mJatuTh.png"
             }
         ]
     }
