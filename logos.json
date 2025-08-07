@@ -85,6 +85,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/O1bUJha.png"
+            },
+            {
+                "eos": [
+                    "719073178",
+                    "782377287"
+                ],
+                "tribename": [
+                    "Boondock Saints",
+                    "Boondock Saints1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/Hr5QBrD.png"
             }
         ]
     }
