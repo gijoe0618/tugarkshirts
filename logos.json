@@ -102,6 +102,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/Hr5QBrD.png"
+            },
+            {
+                "eos": [
+                    "875188997",
+                    "123456789"
+                ],
+                "tribename": [
+                    "FallenOrder",
+                    "Fallen Order"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/kmUbWlB.png"
             }
         ]
     }
