@@ -119,6 +119,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/kmUbWlB.png"
+            },
+            {
+                "eos": [
+                    "116385186",
+                    "123456789"
+                ],
+                "tribename": [
+                    "DODo",
+                    "DODo1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/yglhlkc.png"
             }
         ]
     }
