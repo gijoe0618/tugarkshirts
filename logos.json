@@ -153,6 +153,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/IVes1ul.png"
+            },
+            {
+                "eos": [
+                    "436749750",
+                    "123456789"
+                ],
+                "tribename": [
+                    "Cockzilla",
+                    "Cockzilla1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/Q51cJiE.png"
             }
         ]
     }
