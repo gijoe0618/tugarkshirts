@@ -143,23 +143,6 @@
                     "123456789"
                 ],
                 "tribename": [
-                    "LYCAN2",
-                    "LYCAN3"
-                ],
-                "color": {
-                    "r": 0,
-                    "g": 0,
-                    "b": 0,
-                    "a": 1
-                },
-                "urlimage": "https://i.imgur.com/F8xrlwC.png"
-            },
-            {
-                "eos": [
-                    "701463501",
-                    "123456789"
-                ],
-                "tribename": [
                     "LYCAN",
                     "LYCAN1"
                 ],
@@ -169,7 +152,7 @@
                     "b": 0,
                     "a": 1
                 },
-                "urlimage": "https://i.imgur.com/D3YAQsw.png"
+                "urlimage": "https://i.imgur.com/IVes1ul.png"
             }
         ]
     }
