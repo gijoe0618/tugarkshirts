@@ -170,6 +170,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/Q51cJiE.png"
+            },
+            {
+                "eos": [
+                    "817808409",
+                    "186521263"
+                ],
+                "tribename": [
+                    "GoonSquad",
+                    "Goon Squad"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/qNGinnZ.png"
             }
         ]
     }
