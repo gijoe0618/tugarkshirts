@@ -187,6 +187,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/qNGinnZ.png"
+            },
+            {
+                "eos": [
+                    "576746986",
+                    "380809449"
+                ],
+                "tribename": [
+                    "Sparta#1",
+                    "Sparta #1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/Xx7uzUb.png"
             }
         ]
     }
