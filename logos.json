@@ -204,6 +204,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/Xx7uzUb.png"
+            },
+            {
+                "eos": [
+                    "325963108",
+                    "603550074"
+                ],
+                "tribename": [
+                    "Outlaw",
+                    "Tribe Of Outlaw (Auto)"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/vGFDI9z.png"
             }
         ]
     }
