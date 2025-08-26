@@ -221,6 +221,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.imgur.com/vGFDI9z.png"
+            },
+            {
+                "eos": [
+                    "762846801",
+                    "123456789"
+                ],
+                "tribename": [
+                    "Viltrum",
+                    "Viltrum Empire"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/mRNLrE8.png"
             }
         ]
     }
