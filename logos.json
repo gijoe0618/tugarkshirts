@@ -238,6 +238,23 @@
                     "a": 255
                 },
                 "urlimage": "https://i.imgur.com/2WVsRtB.png"
+            },
+            {
+                "eos": [
+                    "26277470",
+                    "123456789"
+                ],
+                "tribename": [
+                    "Free Speech",
+                    "FreeSpeech"
+                ],
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 255
+                },
+                "urlimage": "https://i.imgur.com/W6FnvQS.png"
             }
         ]
     }
