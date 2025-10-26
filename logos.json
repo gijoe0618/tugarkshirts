@@ -255,6 +255,23 @@
                     "a": 255
                 },
                 "urlimage": "https://i.imgur.com/W6FnvQS.png"
+            },
+            {
+                "eos": [
+                    "573672360",
+                    "72463083"
+                ],
+                "tribename": [
+                    "DECBO DYNASTY",
+                    "DECBODYNASTY"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.imgur.com/T7fyvDT.png"
             }
         ]
     }
