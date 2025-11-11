@@ -272,6 +272,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.ibb.co/cKgdL3hD/decbodynasty-shirt-logo.png"
+            },
+            {
+                "eos": [
+                    "933743857",
+                    "123456789"
+                ],
+                "tribename": [
+                    "AGENTORANGE",
+                    "AGENT ORANGE"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.ibb.co/6JWzNxL4/agent-orange-logo-transparent.png"
             }
         ]
     }
