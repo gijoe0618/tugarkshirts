@@ -289,6 +289,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.ibb.co/gK7VwV3/agent-orange-logo-transparent.png"
+            },
+            {
+                "eos": [
+                    "420662558",
+                    "123456789"
+                ],
+                "tribename": [
+                    "GoodFellas",
+                    "Good Fellas"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.ibb.co/0Vsqctvm/goodfellas-1.png"
             }
         ]
     }
