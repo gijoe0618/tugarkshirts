@@ -228,7 +228,7 @@
                     "123456789"
                 ],
                 "tribename": [
-                    "Viltrum",
+                    "Viltrum E",
                     "Viltrum Empire"
                 ],
                 "color": {
@@ -306,6 +306,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.ibb.co/0Vsqctvm/goodfellas-1.png"
+            },
+            {
+                "eos": [
+                    "868470691",
+                    "123456789"
+                ],
+                "tribename": [
+                    "Viltrum",
+                    "Viltrum1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.ibb.co/KcCMLdtB/Viltrum-Picsart-Background-Remover.png"
             }
         ]
     }
