@@ -357,6 +357,23 @@
                     "a": 1
                 },
                 "urlimage": "https://i.ibb.co/7d2MC4dL/Chat-GPT-Image-Jun-14-2026-05-14-32-PM.png"
+            },
+            {
+                "eos": [
+                    "441492793",
+                    "123456789"
+                ],
+                "tribename": [
+                    "BlackBoxedCryofridge",
+                    "BlackBoxedCryofridge1"
+                ],
+                "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                },
+                "urlimage": "https://i.ibb.co/yFdpHy3w/image-removebg-preview.png"
             }
         ]
     }
